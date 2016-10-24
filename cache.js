@@ -24,6 +24,7 @@ const md5 = require('md5'),
  */
 function createClient (opts) {
   let options = Object.assign({}, opts, {
+    host: process.env.NODE_ENV === 'production' && process.env.REDIS_URL ? process.env.REDIS_URL : (opts.host || 'localhost'),
     dropBufferSupport: true
   });
   
