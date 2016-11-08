@@ -1,6 +1,6 @@
 {
   "name": "redis-cache-wrap",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node.js module for wrapping promise results in Redis.",
   "main": "index.js",
   "scripts": {
