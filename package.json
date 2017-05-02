@@ -24,8 +24,7 @@
   "homepage": "https://github.com/alexdulin/redis-cache-wrap#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "ioredis": "^2.4.0",
-    "md5": "^2.2.1"
+    "ioredis": "^2.4.0"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
