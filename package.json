@@ -1,14 +1,14 @@
 {
   "name": "redis-cache-wrap",
   "description": "Node.js module for wrapping promise results in Redis.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Alex Dulin",
   "bugs": {
     "url": "https://github.com/alexdulin/redis-cache-wrap/issues"
   },
   "dependencies": {
     "bluebird": "^3.5.0",
-    "ioredis": "^2.4.0"
+    "redis": "^2.7.1"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
