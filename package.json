@@ -3,9 +3,6 @@
   "description": "Node.js module for wrapping promise results in Redis.",
   "version": "0.2.1",
   "author": "Alex Dulin",
-  "engines": {
-    "node": ">=8.2.0"
-  },
   "bugs": {
     "url": "https://github.com/alexdulin/redis-cache-wrap/issues"
   },
@@ -15,12 +12,16 @@
   },
   "devDependencies": {
     "@morningconsult/eslint-config-morning-consult": "^0.1.1",
+    "changelog-maker": "^2.2.5",
     "eslint": "^4.3.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-node": "^5.1.1",
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=8.2.0"
   },
   "homepage": "https://github.com/alexdulin/redis-cache-wrap#readme",
   "keywords": [
@@ -36,6 +37,7 @@
     "url": "git+https://github.com/alexdulin/redis-cache-wrap.git"
   },
   "scripts": {
+    "preversion": "npm test",
     "test": "make"
   }
 }

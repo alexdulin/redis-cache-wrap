@@ -21,3 +21,6 @@ lint_fix:
 	./node_modules/.bin/eslint --quiet --fix .
 .PHONY: lint_fix
 
+changelog:
+	./node_modules/.bin/changelog-maker alexdulin redis-cache-wrap --all > CHANGELOG.md
+.PHONY: changelog
