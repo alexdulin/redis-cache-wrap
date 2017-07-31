@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@morningconsult/eslint-config-morning-consult@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@morningconsult/eslint-config-morning-consult/-/eslint-config-morning-consult-0.1.1.tgz#4ad22c8d74046add9cbf56c7cdc12c06f05df86e"
+
 acorn-jsx@^3.0.0:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-3.0.1.tgz#afdf9488fb1ecefc8348f6fb22f464e32a58b36b"

@@ -3,31 +3,7 @@
     "node": true
   },
   "extends": [
-    "standard"
-  ],
-  "globals": {},
-  "rules": {
-    "no-use-before-define": [
-      2,
-      {
-        "functions": false
-      }
-    ],
-    "indent": 0,
-    "no-multi-str": 2,
-    "no-irregular-whitespace": 2,
-    "valid-typeof": 2,
-    "no-undef": 2,
-    "no-unused-vars": 2,
-    "padded-blocks": 0,
-    "no-mixed-spaces-and-tabs": 0,
-    "no-multi-spaces": 0,
-    "no-multiple-empty-lines": 0,
-    "no-trailing-spaces": 0,
-    "no-useless-escape": 0,
-    "no-tabs": 0,
-    "one-var": 0,
-    "semi": 0,
-    "camelcase": 0
-  }
+    "standard",
+    "@morningconsult/eslint-config-morning-consult"
+  ]
 }

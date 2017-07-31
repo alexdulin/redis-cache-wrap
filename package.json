@@ -11,6 +11,7 @@
     "ioredis": "^3.0.0"
   },
   "devDependencies": {
+    "@morningconsult/eslint-config-morning-consult": "^0.1.1",
     "eslint": "^3.19.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.2.0",
