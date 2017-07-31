@@ -1,6 +1,8 @@
 # redis-cache-wrap
 Node.js module for wrapping promise results in Redis.
 
+[![npm package](https://nodei.co/npm/redis-cache-wrap.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/redis-cache-wrap/)
+
 
 ### Why?
 
