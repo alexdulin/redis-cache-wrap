@@ -1,4 +1,5 @@
-* [[`9af44b2475`](https://github.com/alexdulin/redis-cache-wrap/commit/9af44b2475)] - **chore**: add a changelog (Alex Dulin) 
+* [[`fcae1f0c22`](https://github.com/alexdulin/redis-cache-wrap/commit/fcae1f0c22)] - 1.0.0 (Alex Dulin) 
+* [[`3471862301`](https://github.com/alexdulin/redis-cache-wrap/commit/3471862301)] - **chore**: add a changelog (Alex Dulin) 
 * [[`c6a2f9cdb8`](https://github.com/alexdulin/redis-cache-wrap/commit/c6a2f9cdb8)] - **lib**: Start using async/await, require newer node (Alex Dulin) 
 * [[`f0220b0c56`](https://github.com/alexdulin/redis-cache-wrap/commit/f0220b0c56)] - **deps**: upgrade eslint@3.19.0, eslint-plugin-import@2.7.0, eslint-plugin-node@4.2.3, ioredis@3.1.2 (Alex Dulin) 
 * [[`0c9662e773`](https://github.com/alexdulin/redis-cache-wrap/commit/0c9662e773)] - **deps**: Add morning consult eslint config (Alex Dulin) 
