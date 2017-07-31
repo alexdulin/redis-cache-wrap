@@ -3,6 +3,9 @@
   "description": "Node.js module for wrapping promise results in Redis.",
   "version": "0.2.1",
   "author": "Alex Dulin",
+  "engines": {
+    "node": ">=8.2.0"
+  },
   "bugs": {
     "url": "https://github.com/alexdulin/redis-cache-wrap/issues"
   },
