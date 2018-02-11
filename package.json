@@ -40,6 +40,7 @@
   "scripts": {
     "preversion": "npm test",
     "postversion": "make changelog && git add CHANGELOG.md VERSION && git commit --amend --no-edit",
-    "test": "make"
+    "test": "make",
+    "release": "npm test && npm publish --access public"
   }
 }
