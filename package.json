@@ -18,7 +18,8 @@
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-node": "^5.1.1",
     "eslint-plugin-promise": "^3.5.0",
-    "eslint-plugin-standard": "^3.0.1"
+    "eslint-plugin-standard": "^3.0.1",
+    "nsp": "^3.1.0"
   },
   "engines": {
     "node": ">=8.2.0"
@@ -38,6 +39,7 @@
   },
   "scripts": {
     "preversion": "npm test",
+    "postversion": "make changelog && git add CHANGELOG.md VERSION && git commit --amend --no-edit",
     "test": "make"
   }
 }
