@@ -27,3 +27,9 @@ check_nsp:
 changelog:
 	./node_modules/.bin/changelog-maker alexdulin redis-cache-wrap --all > CHANGELOG.md
 .PHONY: changelog
+
+
+install:
+	@yarn install --force --silent --no-progress --non-interactive
+	@npm rebuild --silent > /dev/null
+.PHONY: install
