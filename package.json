@@ -11,10 +11,10 @@
     "ioredis": "^3.1.2"
   },
   "devDependencies": {
-    "@morningconsult/eslint-config-morning-consult": "^0.2.0",
+    "@morningconsult/eslint-config-morning-consult": "^0.3.0",
     "changelog-maker": "^2.2.5",
     "eslint": "^4.3.0",
-    "eslint-config-standard": "^10.2.1",
+    "eslint-config-standard": "^11.0.0",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-node": "^6.0.0",
     "eslint-plugin-promise": "^3.5.0",
@@ -22,7 +22,7 @@
     "nsp": "^3.1.0"
   },
   "engines": {
-    "node": ">=8.2.0"
+    "node": ">=8.10.0"
   },
   "homepage": "https://github.com/alexdulin/redis-cache-wrap#readme",
   "keywords": [
