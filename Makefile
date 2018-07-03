@@ -6,9 +6,9 @@
 # Disable verbosity
 MAKEFLAGS += --silent
 
-all: lint test check_nsp
+all: test check_nsp
 
-test:
+test: lint
 	node test/basic-usage.js
 .PHONY: test
 
