@@ -1,4 +1,7 @@
-* [[`b9e2c7cdde`](https://github.com/alexdulin/redis-cache-wrap/commit/b9e2c7cdde)] - 1.2.1 (Alex Dulin) 
+* [[`c97fb9bee3`](https://github.com/alexdulin/redis-cache-wrap/commit/c97fb9bee3)] - 1.3.0 (Alex Dulin) 
+* [[`adb46986cb`](https://github.com/alexdulin/redis-cache-wrap/commit/adb46986cb)] - **lib**: Move all methods into main cache class (Alex Dulin) 
+* [[`3d8254dedd`](https://github.com/alexdulin/redis-cache-wrap/commit/3d8254dedd)] - **deps**: upgrade eslint-plugin-import@2.13.0, eslint-plugin-promise@3.8.0, eslint-plugin-standard@3.1.0, @morningconsult/eslint-config-morning-consult@0.4.0, eslint@5.0.1 (Alex Dulin) 
+* [[`8f10ffb2d8`](https://github.com/alexdulin/redis-cache-wrap/commit/8f10ffb2d8)] - 1.2.1 (Alex Dulin) 
 * [[`7785fa4144`](https://github.com/alexdulin/redis-cache-wrap/commit/7785fa4144)] - **deps**: Guess we dont need bluebird (Alex Dulin) 
 * [[`82b28e0235`](https://github.com/alexdulin/redis-cache-wrap/commit/82b28e0235)] - **deps**: upgrade changelog-maker@2.2.7, eslint@4.18.2, eslint-plugin-import@2.9.0, eslint-plugin-node@6.0.1, eslint-plugin-promise@3.7.0, nsp@3.2.1 (Alex Dulin) 
 * [[`c9d3609aa8`](https://github.com/alexdulin/redis-cache-wrap/commit/c9d3609aa8)] - **lib**: Fix some lingering non-es6 (Alex Dulin) 
