@@ -10,9 +10,9 @@
     "ioredis": "^3.1.2"
   },
   "devDependencies": {
-    "@morningconsult/eslint-config-morning-consult": "^0.3.0",
+    "@morningconsult/eslint-config-morning-consult": "^0.4.0",
     "changelog-maker": "^2.2.5",
-    "eslint": "^4.3.0",
+    "eslint": "^5.0.1",
     "eslint-config-standard": "^11.0.0",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-node": "^6.0.0",
